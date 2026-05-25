@@ -2,7 +2,22 @@
 
 # AIM:
 
-# SRS (Procedure):
+To develop the Online Ticket Reservation System using Star UML tool.
+
+
+PROBLEM STATEMENT:
+
+Step 1: Problem Identification
+Manual railway operations such as ticket booking, train scheduling, and passenger management are slow and error-prone. The system aims to automate these processes for efficiency and accuracy.
+
+Step 2: Requirement Analysis
+Users: Passenger, Admin, and Booking Clerk.
+Main Functions: Train schedule management, ticket booking/cancellation, seat availability check, fare calculation, and report generation.
+Non-Functional Needs: High reliability, data security, and user-friendly interface.
+
+Step 3: System Design
+Draw UML diagrams: Use Case, Class, Activity, Sequence, Communication, and Package diagrams.
+Create database tables for Trains, Passengers, Tickets, and Schedules.
 
 # DIAGRAMS:
 (upload all 6 diagrams)
@@ -31,4 +46,13 @@ SEQUENCE DIAGRAM:
 
 <img width="1238" height="1018" alt="image" src="https://github.com/user-attachments/assets/556d8f35-3aba-472c-aa4e-17d54c06ffdb" />
 
+
+COMMUNICATION DIAGRAM:
+
+
+<img width="1168" height="973" alt="image" src="https://github.com/user-attachments/assets/4176bce0-317f-4dd3-b15e-f33649dcdcd1" />
+
+
 # RESULT:
+
+Thus the project to develop e-ticketing system was developed using Star UML Software.
