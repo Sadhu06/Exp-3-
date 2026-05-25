@@ -27,4 +27,8 @@ PACKAGE DIAGRAM:
 
 <img width="1236" height="867" alt="Screenshot 2026-05-21 160026" src="https://github.com/user-attachments/assets/1ab15363-4071-41c2-a2ac-89bcfb430d5a" />
 
+SEQUENCE DIAGRAM:
+
+<img width="1238" height="1018" alt="image" src="https://github.com/user-attachments/assets/556d8f35-3aba-472c-aa4e-17d54c06ffdb" />
+
 # RESULT:
